@@ -1,0 +1,35 @@
+<?php
+$d['blog']['s_theme_pc'] = "_pc/default";
+$d['blog']['s_theme_mobile'] = "";
+$d['blog']['badword'] = "시발,씨발,개새끼,개세끼,개쉐이,지랄,니미,좆,좃,조낸,죽어,쪽바리,짱개,떼놈,";
+$d['blog']['badword_action'] = "0";
+$d['blog']['badword_escape'] = "*";
+$d['blog']['up_maxsize_file'] = "50";
+$d['blog']['up_maxnum_file'] = "5";
+$d['blog']['up_maxsize_img'] = "100";
+$d['blog']['up_maxnum_img'] = "20";
+$d['blog']['up_name_file'] = "모든파일";
+$d['blog']['up_name_img'] = "그림파일";
+$d['blog']['up_ext_file'] = "*.*";
+$d['blog']['up_ext_img'] = "*.jpg *.jpeg *.gif *.png";
+$d['blog']['up_ext_cut'] = "";
+$d['blog']['up_width_img'] = "640";
+$d['blog']['up_use_classicup'] = "1";
+$d['blog']['use_fileserver'] = "";
+$d['blog']['ftp_host'] = "";
+$d['blog']['ftp_port'] = "21";
+$d['blog']['ftp_user'] = "";
+$d['blog']['ftp_pass'] = "";
+$d['blog']['ftp_folder'] = "";
+$d['blog']['ftp_urlpath'] = "";
+$d['blog']['ftp_pasv'] = "";
+$d['blog']['c_perm_write'] = "1";
+$d['blog']['c_snsconnect'] = "0";
+$d['blog']['c_use_hidden'] = "0";
+$d['blog']['c_recnum'] = "50";
+$d['blog']['c_orderby1'] = "desc";
+$d['blog']['c_orderby2'] = "asc";
+$d['blog']['c_onelinedel'] = "";
+$d['blog']['c_give_point'] = "0";
+$d['blog']['c_give_opoint'] = "0";
+?>

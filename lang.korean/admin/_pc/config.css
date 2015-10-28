@@ -1,0 +1,22 @@
+#mainbox {}
+#mainbox .notice {padding:5px 0 20px 15px;margin:0 0 20px 0;font-size:12px;font-family:dotum;color:#666;border-bottom:#efefef solid 1px;line-height:150%;}
+#mainbox table {margin:0 0 20px 0;}
+#mainbox td {padding:5px 0 5px 0;}
+#mainbox .title {font-weight:bold;padding:10px 0 15px 0;margin:0 0 20px 0;border-bottom:#efefef solid 1px;}
+#mainbox .td1 {padding:10px 0 5px 15px;width:100px;vertical-align:top;}
+#mainbox .td2 {padding:10px 0 5px 0;color:#666666;}
+#mainbox .td2 textarea {overflow:auto;border:#EFEFEF solid 1px;padding:6px 0 6px 10px;line-height:150%;width:350px;height:100px;color:#ffffff;}
+#mainbox .td2 .guide {padding:10px 0 0 0;line-height:150%;font-family:dotum;font-size:11px;color:#888888;}
+#mainbox .td2 .select1 {width:180px;letter-spacing:-1px;}
+#mainbox .td2 .sname {width:174px;}
+#mainbox .td2 .sname1 {width:307px;}
+#mainbox .td2 .sname2 {width:82px;}
+#mainbox .td2 .guide {font-size:11px;font-family:dotum;color:#555;line-height:150%;padding:10px 0 0 0;}
+#mainbox .td2 .guide textarea {display:block;overflow:auto;border:#EFEFEF solid 1px;padding:6px 0 6px 10px;margin:10px 0 0 0;line-height:150%;width:750px;height:100px;color:#000000;}
+#mainbox .m {font-size:11px;font-family:dotum;color:#888;letter-spacing:-1px;}
+#mainbox .ftitle {font-weight:bold;padding:20px 0 10px 0;border-bottom:#cccccc solid 1px;}
+#mainbox .ftplist {line-height:160%;color:#999;padding:0;}
+#mainbox .ftplist a {color:#111;}
+#mainbox .ftplist .pwd,#mainbox .ftplist .pwd a {font-size:15px;font-weight:bold;color:#0000ff;}
+#mainbox .sftp {display:inline-block;padding:4px 5px 1px 5px;background:#333333;color:#ffffff;font-family:dotum;font-size:11px;border-radius:3px 3px 3px 3px;}
+#mainbox .submitbox {margin:20px 0 20px 0;padding:15px 0 0 115px;border-top:#dfdfdf solid 1px;}

@@ -1,0 +1,23 @@
+#mainbox {}
+#mainbox .subtt {padding:0 0 7px 0;border-bottom:#cccccc solid 1px;}
+#mainbox .subtt .xleft {float:left;font-weight:bold;color:#666666;}
+#mainbox .subtt .xright {float:right;}
+#mainbox .subtt .xright a {font-family:dotum;font-size:11px;color:#999999;}
+#mainbox .gallType {padding:50px 0 0 20px;margin:0 0 50px 0;background:#efefef;border:#cccccc solid 4px;border-radius:8px 8px 8px 8px;}
+#mainbox .gallType .picbox {float:left;margin:0 12px 20px 12px;width:132px;height:170px;overflow:hidden;}
+#mainbox .gallType .picbox .pic {border:#cccccc solid 1px;background:#cccccc;width:130px;height:90px;overflow:hidden;border-radius:3px 3px 3px 3px;}
+#mainbox .gallType .picbox .pic img {width:135px;}
+#mainbox .gallType .picbox .sbjx {font-size:12px;font-family:gothic;line-height:140%;padding:5px 5px 0 5px;}
+#mainbox .gallType .picbox .sbjx .comment {font:normal 11px arial;color:#FC6138;}
+#mainbox .gallType .picbox .sbjx .new {font-family:arial;font-size:10px;color:#ff0000;}
+#mainbox .gallType .none {text-align:center;padding:80px 0 120px 0;color:#999999;}
+#mainbox .gallType .pagebox01 {border-top:#dfdfdf solid 1px;text-align:center;padding:30px 0 0 0;}
+#mainbox .reviewType {padding:0 0 50px 0;}
+#mainbox .reviewType table {width:100%;border-spacing:0px;border-collapse:collapse;}
+#mainbox .reviewType tbody td {border-bottom:#dfdfdf solid 1px;padding:15px 0 15px 0;}
+#mainbox .reviewType tbody td .pic {float:left;border:#dfdfdf solid 1px;background:#efefef;width:90px;height:70px;overflow:hidden;margin-right:15px;margin-top:3px;}
+#mainbox .reviewType tbody td .pic img {width:95px;}
+#mainbox .reviewType tbody .sbj {}
+#mainbox .reviewType tbody .sbj a {font-weight:bold;font-size:13px;color:#333333;}
+#mainbox .reviewType tbody .cont {padding-top:10px;line-height:150%;color:#888888;}
+#mainbox .reviewType tbody .none {border-bottom:0;height:100px;}
